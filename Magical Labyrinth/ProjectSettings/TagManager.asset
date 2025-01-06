@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BK
+    uniqueID: 2298443509
+    locked: 0
+  - name: Ground
+    uniqueID: 4142020729
+    locked: 0
+  - name: Obstacle
+    uniqueID: 143281919
+    locked: 0
+  - name: Player
+    uniqueID: 2694505701
+    locked: 0
+  - name: UI
+    uniqueID: 2620629757
+    locked: 0
